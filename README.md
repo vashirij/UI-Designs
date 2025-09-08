@@ -29,7 +29,7 @@ The designs showcase the full UI/UX flow, reusable components, and interactive p
 Here are some exported screens from the mock-up:
 
 ![Login Screen](designs/login.png)
-![Dashboard](designs/dashboard.png)
+![Dashboard](designs/DashboardTaskList.png)
 ![Task List](designs/tasklist.png)
 
 ---
