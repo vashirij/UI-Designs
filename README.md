@@ -1,6 +1,6 @@
 # UI-Designs
 You can view the Figma designs here [Design Mockups](https://www.figma.com/proto/NTotVvWzsX7RDD58Ds5OyI/Mobile-App?page-id=0%3A1&node-id=28-280&viewport=247%2C46%2C0.95&t=JJQ57SI1q36ljf3y-1&scaling=scale-down&content-scaling=fixed)
-# 🎨 Figma Mock-Up: [Your Project Name]
+# Figma Mock-Up
 
 This repository contains mock-up designs created in **Figma**.  
 The designs showcase the full UI/UX flow, reusable components, and interactive prototypes for the application.
@@ -30,7 +30,8 @@ Here are some exported screens from the mock-up:
 
 ![Login Screen](designs/login.png)
 ![Dashboard](designs/DashboardTaskList.png)
-![Task List](designs/tasklist.png)
+![Registration Form](designs/RegistrationForm.png)
+![Registration Form](designs/SplashScreen.png)
 
 ---
 
