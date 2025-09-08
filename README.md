@@ -28,10 +28,10 @@ The designs showcase the full UI/UX flow, reusable components, and interactive p
 ## Design Previews
 Here are some exported screens from the mock-up:
 
-![Login Screen](designs/login.png)
-![Dashboard](designs/DashboardTaskList.png)
-![Registration Form](designs/RegistrationForm.png)
 ![Registration Form](designs/SplashScreen.png)
+![Registration Form](designs/RegistrationForm.png)
+![Login Screen](designs/LoginScreen.png)
+![Dashboard](designs/DashboardTaskList.png)
 
 ---
 
@@ -40,19 +40,9 @@ Explore the full interactive prototype here: [Figma Files](https://www.figma.com
 
 ---
 
-## 📂 Repository Structure
-
-├── designs/ # Exported PNG/JPG images from Figma
-│ ├── login.png
-│ ├── DashboardTaskList.png
-│ └── tasklist.png
-└── README.md # This documentation
-
-
-
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Open the **Figma link** above to interact with the prototype.  
 2. Check the **/designs folder** for static design exports.  
 3. Use these designs as a reference for development implementation.  
@@ -60,8 +50,8 @@ Explore the full interactive prototype here: [Figma Files](https://www.figma.com
 ---
 
 ## 👤 Author
-**[James Vashiri]**  
-📧 [grinefalcon2@gmail.com]  
+**James Vashiri**  
+📧 grinefalcon2@gmail.com  
 👤 [James Vashiri on LinkedIn](https://www.linkedin.com/in/james-vashiri/)
 
 
