@@ -41,3 +41,26 @@ Explore the full interactive prototype here: [Figma Files](https://www.figma.com
 
 ## 📂 Repository Structure
 
+├── designs/ # Exported PNG/JPG images from Figma
+│ ├── login.png
+│ ├── DashboardTaskList.png
+│ └── tasklist.png
+└── README.md # This documentation
+
+
+
+---
+
+## 🚀 How to Use
+1. Open the **Figma link** above to interact with the prototype.  
+2. Check the **/designs folder** for static design exports.  
+3. Use these designs as a reference for development implementation.  
+
+---
+
+## 👤 Author
+**[James Vashiri]**  
+📧 [grinefalcon2@gmail.com]  
+👤 [James Vashiri on LinkedIn](https://www.linkedin.com/in/james-vashiri/)
+
+
